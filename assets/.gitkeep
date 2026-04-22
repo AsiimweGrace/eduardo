@@ -1,0 +1,5 @@
+# Assets Directory
+
+Place your TensorFlow Lite model file (`leaf_disease_model.tflite`) in this directory.
+
+The model will be automatically loaded when the app starts.

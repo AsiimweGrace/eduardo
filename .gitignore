@@ -1,0 +1,14 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.packages
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Kotlin / Android temp
+android/.kotlin/

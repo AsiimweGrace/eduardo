@@ -1,0 +1,49 @@
+name: bananaapp
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.2
+  args: ^2.7.0
+  google_fonts: ^8.0.2
+  url_launcher: ^6.3.1
+  http: ^1.2.1
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  google_sign_in: ^6.2.1
+  firebase_database: ^11.0.1
+  firebase_core_platform_interface: ^6.0.3
+  # tflite_flutter: ^0.12.1
+  image_picker: ^1.0.7
+  image: ^4.1.7
+  path_provider: ^2.1.2
+  shared_preferences: ^2.2.2
+  permission_handler: ^11.3.0
+  camera: ^0.11.0+2
+  table_calendar: ^3.2.0
+  sqflite: ^2.3.2
+  connectivity_plus: ^6.0.3
+  flutter_pdfview: ^1.4.4
+  tflite_flutter: ^0.12.1
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/
+    - assets/dictionary.pdf

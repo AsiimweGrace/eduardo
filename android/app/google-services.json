@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743865889806",
+    "firebase_url": "https://bananaapp-46723-default-rtdb.firebaseio.com",
+    "project_id": "bananaapp-46723",
+    "storage_bucket": "bananaapp-46723.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743865889806:android:e8016a3a8eea0801e7785f",
+        "android_client_info": {
+          "package_name": "com.example.bananaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743865889806-6jbrje4n00665ljbkljjap1fum4mv21a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananaapp",
+            "certificate_hash": "db46a7f5da9176260b17bad9d3e34c76c0b6dac3"
+          }
+        },
+        {
+          "client_id": "743865889806-s9urfargf4vd15m82gvqurgsj8fqsf46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyCpXjxss5f9alG8EgPWwc63YixFaPH3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743865889806-s9urfargf4vd15m82gvqurgsj8fqsf46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
